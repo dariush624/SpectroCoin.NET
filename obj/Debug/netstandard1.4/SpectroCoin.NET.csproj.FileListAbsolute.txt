@@ -1,0 +1,8 @@
+D:\Projects\Visual Studio\SpectroCoin.NET\SpectroCoin.NET\SpectroCoin.NET\bin\Debug\netstandard1.4\SpectroCoin.NET.deps.json
+D:\Projects\Visual Studio\SpectroCoin.NET\SpectroCoin.NET\SpectroCoin.NET\bin\Debug\netstandard1.4\SpectroCoin.NET.dll
+D:\Projects\Visual Studio\SpectroCoin.NET\SpectroCoin.NET\SpectroCoin.NET\bin\Debug\netstandard1.4\SpectroCoin.NET.pdb
+D:\Projects\Visual Studio\SpectroCoin.NET\SpectroCoin.NET\SpectroCoin.NET\obj\Debug\netstandard1.4\SpectroCoin.NET.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\SpectroCoin.NET\SpectroCoin.NET\SpectroCoin.NET\obj\Debug\netstandard1.4\SpectroCoin.NET.AssemblyInfo.cs
+D:\Projects\Visual Studio\SpectroCoin.NET\SpectroCoin.NET\SpectroCoin.NET\obj\Debug\netstandard1.4\SpectroCoin.NET.dll
+D:\Projects\Visual Studio\SpectroCoin.NET\SpectroCoin.NET\SpectroCoin.NET\obj\Debug\netstandard1.4\SpectroCoin.NET.pdb
+D:\Projects\Visual Studio\SpectroCoin.NET\SpectroCoin.NET\SpectroCoin.NET\obj\Debug\netstandard1.4\SpectroCoin.NET.csprojResolveAssemblyReference.cache
